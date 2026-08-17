@@ -1,0 +1,64 @@
+﻿PORTABLE INTELLIGENT MULTI SOURCE EV RANGE EXTENDER
+Project: Intelligent Smart Vehicle System - Component / Material List (BOM)
+===========================================================================================================
+
+
+S.No.  Category                      Component / Material        Qty  Unit    Project Use                  
+-----------------------------------------------------------------------------------------------------------
+[Power & Energy Management]
+1      Power & Energy Management     12V Battery                 2    Nos.    Energy storage               
+2      Power & Energy Management     Solar Panel                 1    Nos.    Renewable energy input       
+3      Power & Energy Management     Solar Power Supply          1    Nos.    Solar power interface        
+4      Power & Energy Management     12V Charger / Power Supply  2    Nos.    Battery charging / testing   
+5      Power & Energy Management     12V–5V Buck Converter       2    Nos.    12V to 5V conversion         
+6      Power & Energy Management     Fuse & Safety Box           1    Set     Electrical protection        
+7      Power & Energy Management     12V Fuse Box                1    Set     12V line protection          
+8      Power & Energy Management     Terminal Block              1    Set     Secure electrical connections
+
+
+[Control & Monitoring]
+9      Control & Monitoring          Arduino UNO                 2    Nos.    Main control and monitoring  
+10     Control & Monitoring          Temperature Sensor          1    Nos.    Temperature monitoring       
+11     Control & Monitoring          LCD Display                 2    Nos.    System/status display        
+12     Control & Monitoring          I²C Module                  2    Nos.    LCD communication            
+
+
+[Motor & Drive System]
+13     Motor & Drive System          L298N Motor Driver          1    Nos.    DC motor control             
+14     Motor & Drive System          12V Geared Motor            1    Nos.    Vehicle propulsion           
+15     Motor & Drive System          Motor Wheel                 1    Nos.    Mechanical drive             
+
+
+[Switching & Power Control]
+16     Switching & Power Control     IRFZ44N MOSFET              3    Nos.    Power switching              
+17     Switching & Power Control     2-Channel Relay Module      4    Nos.    Load switching/control       
+18     Switching & Power Control     Main ON/OFF Button          2    Nos.    Main system control          
+19     Switching & Power Control     Push ON/OFF Switch          1    Nos.    Auxiliary control            
+20     Switching & Power Control     Emergency Stop Switch       1    Nos.    Emergency shutdown           
+
+
+[Cooling & Thermal Protection]
+21     Cooling & Thermal Protection  Exhaust Fan                 2    Nos.    Cooling                      
+22     Cooling & Thermal Protection  Heat Sink                   3    Nos.    Heat dissipation             
+
+
+[Indication & Alert]
+23     Indication & Alert            Active Buzzer (5V)          1    Nos.    Warning/alarm                
+24     Indication & Alert            RGB LED                     1    m       Status indication            
+25     Indication & Alert            Red LED                     3    Nos.    Fault/warning indication     
+26     Indication & Alert            Green LED                   2    Nos.    Normal/active indication     
+
+
+[Resistors & Wiring]
+27     Resistors & Wiring            10 kΩ Resistor              10   Nos.    Control circuits             
+28     Resistors & Wiring            220–230 Ω Resistor          5    Nos.    LED current limiting         
+29     Resistors & Wiring            4.7 kΩ Resistor             5    Nos.    Pull-up / I²C circuits       
+30     Resistors & Wiring            Jumper Wires                1    Bundle  Circuit connections          
+
+
+[Prototype Assembly]
+31     Prototype Assembly            Glue Stick                  4    Nos.    Prototype assembly           
+
+
+-----------------------------------------------------------------------------------------------------------
+Total Line Items: 31
